@@ -51,11 +51,6 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="ie" value="{error: {code: '#werifgdjig4', message: 'INTERNAL_ERROR'}, data: null}" description="INTERNAL_ERROR" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="ifs" value="if(_get($VAR$, 'data.success') !== true) {&#10;  $END$&#10;}" description="if success" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
