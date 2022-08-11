@@ -4,6 +4,7 @@
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".env.developement" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore " type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
