@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="task-value-control-modal-host.tsx" type="AUTO_DETECTED" />
+      <mapping pattern="_redirects" type="AUTO_DETECTED" />
       <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.developement" type="PLAIN_TEXT" />
